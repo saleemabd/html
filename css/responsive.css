@@ -1,0 +1,374 @@
+@media (min-width: 768px) and (max-width: 979px) {
+.wrapper {
+	width: 100%;
+	margin: auto;
+}
+
+.topleftsection {
+    float: left;
+    width: 100%;
+}
+
+.toprightsection { width:97%; }
+
+.topsection { height:90px; }
+
+.emailsection { width:56%; }
+
+.countrysection { width:41%; }
+
+.logosection { height:130px; }
+
+.logo { width:100%; text-align:center; height:70px; }
+
+.menu {
+    float: left;
+    width: 100%;
+}
+
+#menu-trigger { width:100%; }
+
+.welcometitle { font-size:20px; height:30px; }
+
+.welcomecontent { padding-top:0px; font-size:12px; line-height:18px; width:90%; }
+
+.industriessection { width:100%; }
+
+.servicessection { width:100%; }
+
+.industirestitle { text-align:center; font-size:20px; height:auto; }
+
+.industriesimage { width:13%; }
+
+.industriestextoutter { width:80%; }
+
+.line { display:none; }
+
+.serviceimage { width:22%; text-align:center; }
+
+.servicestextoutter { width:70%; }
+
+.industriestexttitle { font-size:14px; }
+
+.servicetitle { font-size:14px; }
+
+.clienttitle { font-size:20px; height:auto; }
+
+.cd-testimonials-wrapper { padding: 0 40px 53px; margin: 1em auto; }
+
+.footeroutter { width:80%; padding:10px; }
+
+.footertitle { font-size:20px; padding-top:0px; }
+
+.footermenu ul { margin:10px; }
+
+.innerpagetitle { font-size:20px; height:30px; }
+
+.footerbottomsection2 { height:auto; }
+
+.copyrights { text-align:center; width:100%; }
+
+.letsconnect { width:100%; text-align:center; }
+
+.bottomsocialmedia { width:100%; }
+
+.bottomsocialmediaimages { margin:auto; width:50%; float:none; padding:20px; }
+
+.bottommediaimages { padding:10px; width:auto; }
+
+.servicespagetitle { font-size:14px; }
+
+.servicesimageoutter { width:100%; }
+
+.innerpagecontentoutter { width:90%; padding:10px; }
+
+
+
+}
+ @media (min-width: 481px) and (max-width: 767px) {
+.wrapper {
+	width: 100%;
+	margin: auto;
+}
+
+.topleftsection {
+    float: left;
+    width: 100%;
+}
+
+.toprightsection { width:97%; }
+
+.topsection { height:90px; }
+
+.emailsection { width:56%; }
+
+.countrysection { width:41%; }
+
+.logosection { height:130px; }
+
+.logo { width:100%; text-align:center; height:70px; }
+
+.menu {
+    float: left;
+    width: 100%;
+}
+
+#menu-trigger { width:100%; }
+
+.welcometitle { font-size:20px; height:30px; }
+
+.innerpagetitle { font-size:20px; height:30px; }
+
+.welcomecontent { padding-top:0px; font-size:12px; line-height:18px; width:90%; }
+
+.industriessection { width:100%; }
+
+.servicessection { width:100%; }
+
+.industirestitle { text-align:center; font-size:20px; height:auto; }
+
+.industriesimage { width:13%; }
+
+.industriestextoutter { width:80%; }
+
+.line { display:none; }
+
+.serviceimage { width:22%; text-align:center; }
+
+.servicestextoutter { width:70%; }
+
+.industriestexttitle { font-size:14px; }
+
+.servicetitle { font-size:14px; }
+
+.clienttitle { font-size:20px; height:auto; }
+
+.cd-testimonials-wrapper { padding: 0 40px 53px; margin: 1em auto; }
+
+.footeroutter { width:80%; padding:10px; }
+
+.footertitle { font-size:20px; padding-top:0px; }
+
+.footermenu ul { margin:10px; }
+
+.footerbottomsection2 { height:auto; }
+
+.copyrights { text-align:center; width:100%; }
+
+.letsconnect { width:100%; text-align:center; }
+
+.bottomsocialmedia { width:100%; }
+
+.bottomsocialmediaimages { margin:auto; width:50%; float:none; padding:20px; }
+
+.bottommediaimages { padding:10px; width:auto; }
+
+.servicespagetitle { font-size:14px; }
+
+.servicesimageoutter { width:100%; }
+
+.industriesimageoutter { width:100%; }
+
+.innerpagecontentoutter { width:90%; padding:10px; }
+
+.connectleft { width:100%; }
+
+
+
+}
+ @media (max-width: 480px) {
+.wrapper {
+	width: 100%;
+	margin: auto;
+}
+
+.topleftsection {
+    float: left;
+    width: 100%;
+}
+
+.toprightsection { width:97%; }
+
+.topsection { height:90px; }
+
+.emailsection { width:56%; }
+
+.countrysection { width:41%; }
+
+.logosection { height:130px; }
+
+.logo { width:100%; text-align:center; height:70px; }
+
+.menu {
+    float: left;
+    width: 100%;
+}
+
+#menu-trigger { width:100%; }
+
+.welcometitle { font-size:20px; height:30px; }
+
+.innerpagetitle { font-size:20px; height:30px; }
+
+.welcomecontent { padding-top:0px; font-size:12px; line-height:18px; width:90%; }
+
+.industriessection { width:100%; }
+
+.servicessection { width:100%; }
+
+.industirestitle { text-align:center; font-size:20px; height:auto; }
+
+.industriesimage { width:13%; }
+
+.industriestextoutter { width:80%; }
+
+.line { display:none; }
+
+.serviceimage { width:22%; text-align:center; }
+
+.servicestextoutter { width:70%; }
+
+.industriestexttitle { font-size:14px; }
+
+.servicetitle { font-size:14px; }
+
+.clienttitle { font-size:20px; height:auto; }
+
+.cd-testimonials-wrapper { padding: 0 40px 53px; margin: 1em auto; }
+
+.footeroutter { width:80%; padding:10px; }
+
+.footertitle { font-size:20px; padding-top:0px; }
+
+.footermenu ul { margin:10px; }
+
+.footerbottomsection2 { height:auto; }
+
+.copyrights { text-align:center; width:100%; }
+
+.letsconnect { width:100%; text-align:center; }
+
+.bottomsocialmedia { width:100%; }
+
+.bottomsocialmediaimages { margin:auto; width:50%; float:none; padding:20px; }
+
+.bottommediaimages { padding:10px; width:auto; }
+
+.servicespagetitle { font-size:14px; }
+
+.servicesimageoutter { width:100%; }
+
+.industriesimageoutter { width:100%; }
+
+.innerpagecontentoutter { width:90%; padding:10px; }
+
+.connecttextbox { width:100%; }
+
+.connectbox { width:50%; }
+
+.connecttextareabox {width:100%; }
+
+.connectleft { width:100%; }
+
+}
+ @media (max-width: 320px) {
+.wrapper {
+	width: 100%;
+	margin: auto;
+}
+
+.topleftsection {
+    float: left;
+    width: 100%;
+}
+
+.toprightsection { width:97%; }
+
+.topsection { height:90px; }
+
+.emailsection { width:56%; }
+
+.countrysection { width:41%; }
+
+.logosection { height:130px; }
+
+.logo { width:100%; text-align:center; height:70px; }
+
+.menu {
+    float: left;
+    width: 100%;
+}
+
+#menu-trigger { width:100%; }
+
+.welcometitle { font-size:20px; height:30px; }
+
+.innerpagetitle { font-size:20px; height:30px; }
+
+.welcomecontent { padding-top:0px; font-size:12px; line-height:18px; width:90%; }
+
+.industriessection { width:100%; }
+
+.servicessection { width:100%; }
+
+.industirestitle { text-align:center; font-size:20px; height:auto; }
+
+.industriesimage { width:13%; }
+
+.industriestextoutter { width:80%; }
+
+.line { display:none; }
+
+.serviceimage { width:22%; text-align:center; }
+
+.servicestextoutter { width:70%; }
+
+.industriestexttitle { font-size:14px; }
+
+.servicetitle { font-size:14px; }
+
+.clienttitle { font-size:20px; height:auto; }
+
+.cd-testimonials-wrapper { padding: 0 40px 53px; margin: 1em auto; }
+
+.footeroutter { width:80%; padding:10px; }
+
+.footertitle { font-size:20px; padding-top:0px; }
+
+.footermenu ul { margin:10px; }
+
+.footerbottomsection2 { height:auto; }
+
+.copyrights { text-align:center; width:100%; }
+
+.letsconnect { width:100%; text-align:center; }
+
+.bottomsocialmedia { width:100%; }
+
+.bottomsocialmediaimages { margin:auto; width:50%; float:none; padding:20px; }
+
+.bottommediaimages { padding:10px; width:auto; }
+
+.servicespagetitle { font-size:14px; }
+
+.servicesimageoutter { width:100%; }
+
+.industriesimageoutter { width:100%; }
+
+.innerpagecontentoutter { width:90%; padding:10px; }
+
+.connecttextbox { width:100%; }
+
+.connectbox { width:50%; }
+
+.connecttextareabox {width:100%; }
+
+.connectleft { width:100%; }
+
+}
+
+
+/* Retina Display */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),  only screen and (-moz-min-device-pixel-ratio: 2),  only screen and (-o-min-device-pixel-ratio: 2/1),  only screen and (min-device-pixel-ratio: 2),  only screen and (min-resolution: 2dppx) {
+}
